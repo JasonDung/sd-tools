@@ -1,0 +1,10 @@
+# 打包命令
+CGO_ENABLED=0 GOOS=linux GOARCH=amd64 go build main.go
+CGO_ENABLED=0 GOOS=windows GOARCH=amd64 go build main.go
+
+
+#新系统网址
+http://www.jhcip.cn/dist/index.html#/login
+
+#老系统网址
+https://cc.157nk.cn/index/login/index.html

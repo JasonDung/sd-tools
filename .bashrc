@@ -1,0 +1,1 @@
+export GOPATH=/Users/dongzhuodong/Documents/ourMessage/Projects/sd-tools
